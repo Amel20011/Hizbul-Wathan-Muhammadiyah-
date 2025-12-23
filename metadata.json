@@ -1,0 +1,8 @@
+{
+  "name": "Copy of AestheticBot Dashboard",
+  "description": "A high-performance, visually stunning dashboard for managing and exploring the AestheticBot WhatsApp project, featuring command menus, project structure visualization, and a live AI chat simulation powered by Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
